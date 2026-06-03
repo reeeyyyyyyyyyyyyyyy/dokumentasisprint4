@@ -1,1 +1,12 @@
-# dokumentasisprint4
+Ayo lakukan sesuai Jobdesc
+
+# [SPRINT 4 STARTED]
+
+## TASK SESUAI JIRA DI CEK ITU MASING MASING DAPAT 1 CARD TP DI DALAMNYA ADA BEBERAPA SUBTASK
+
+### 1. ALEX - DEV 1
+### 2. RARA - DEV 2
+### 3. GLAD - DEV 3
+### 4. ALDO - DEV 4
+### 5. JEJE - DEV 5
+### 6. ANGGA - DEV 6
